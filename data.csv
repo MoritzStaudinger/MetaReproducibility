@@ -1,0 +1,22 @@
+Name;Year;Conference;Code not provided;Code partially not provided;Faulty Code provided;Information about Software Versions missing;Data not provided;Data is partially not provided;Metadata not provided;Comparison Metrics or Baselines not used;Experimental Setup not described;Experiment Workflow incomplete;Inconsistencies in Paper, Code and Data;Results differ significantly;Cultural Context differs;Specific Hardware and Software Setup necessary;Sum;Platform;Research Objective;Implementation;Method;Actor;Data;Assumptions
+Crowdsourcing versus Expert Fact-Checking;2020;ECIR;0;1;0;0;0;0;1;0;0;0;0;0;0;0;2;0;0;1;0;1;0;
+"Reproducing Experimental Results from the Paper ""Collaborative Memory Network for Recommendation Systems""";2018;SIGIR;0;0;0;1;1;0;0;1;1;1;0;0;0;1;6;0;0;0;0;1;0;
+"Review of ""On the Replicability of Combining Word Embeddings and Retrieval Models""";2020;ECIR;0;0;1;0;0;1;0;1;0;0;1;0;0;0;4;0;0;0;0;1;0;
+Reproducibility in Conference Proceedings: An Analysis of Three Candidate Papers;2017;CIKM;0;0;1;1;0;0;1;1;0;1;1;0;0;0;6;1;0;0;0;1;1;newer scipy version, encoding, result importance, ported Linux - Windows
+"Reproducibility report for paper: ""Cross-lingual Document Retrieval using Regularized Wasserstein Distance""";2018;ECIR;0;0;0;1;1;0;1;1;0;0;0;0;0;0;4;0;0;0;0;1;0;
+Reproduction Study - How do Gain and Discount Functions Affect the Correlation between DCG and User Satisfaction?;2015;ECIR;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;
+"Reproduce experiment results from ""Domain-Independent Extraction of Scientific Concepts from Research Articles"" paper";2020;ECIR;0;0;0;0;0;0;0;0;0;1;0;0;0;1;2;0;0;0;0;1;0;
+Reproducibility Study of The Unfairness of Popularity Bias in Music Recommendation: A Reproducibility Study;2020;ECIR;0;0;0;1;0;0;0;0;0;1;0;0;0;0;2;0;0;0;0;1;0;
+Reproducibility Study - FANG: Leveraging Social Context for Fake News Detection Using Graph Representation;2020;CIKM;0;0;0;0;0;0;0;1;1;1;0;0;0;0;3;0;0;0;0;1;0;
+Reproducibility study - Faster k-means cluster estimation;2017;ECIR;0;0;0;1;0;0;0;0;1;1;1;0;0;0;4;0;0;0;0;1;0;
+Reproducibility Study: On Heavy-User Bias in A/B Testing;2019;CIKM;0;0;0;1;0;0;0;1;0;1;0;0;0;0;3;0;0;0;0;1;1;Other Parameters where evaluated
+A Reproducibility Analysis on: Do Channels Matter? Illuminating Interpersonal Influence on Music Recommendations;2020;ACM RecSys;1;0;0;0;1;0;0;0;0;0;0;1;1;0;4;1;0;1;0;1;1;Experiment was redone, with own study
+"Reproducibility Report for the Paper: ""CosRec: 2D Convolutional Neural Networks for Sequential Recommendation""";2019;CIKM;0;0;0;0;0;0;0;1;0;1;0;0;0;1;3;0;0;0;0;1;0;
+Reproducibility Study: Web2Text;2018;ECIR;0;0;0;1;0;0;0;0;0;1;0;0;0;1;3;0;0;0;0;1;1;A newer dataset has been used for evaluation
+"A Reproduction Study for ""A Framework for Analyzing theImpact of Missing Data in Predictive Models"" by F. Santore et al.";2020;CIKM;0;1;0;1;0;0;0;0;0;0;0;1;0;1;4;0;0;0;0;1;0;
+"A Reproducibility Study of ""Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems""";2018;SIGIR;0;0;0;0;0;0;0;1;0;1;0;0;0;0;2;0;0;0;0;1;0;
+Deep Learning over Multi-field Categorial Data - A Case Study on User Response Prediction: Reproducibility Study;2016;ECIR;0;0;1;1;0;0;0;1;0;1;0;0;0;1;5;0;0;0;0;1;0;
+Reproducing the Results from 'Measuring Influence on Instagram: A Network-Oblivious Approach' by Segev et al.;2018;SIGIR;1;0;0;1;0;1;1;1;0;1;0;0;0;0;6;0;0;1;0;1;0;State of the art method used, therefore scikit learn
+Reproducing SetRank;2018;ECIR;0;0;1;0;0;1;0;0;1;1;0;1;0;1;6;0;0;0;0;1;0;
+Reproduction of paper results - Joint Geographical and Temporal Modeling Based on Matrix Factorization for Point-of-Interest Recommendation;2020;ECIR;0;0;1;0;0;0;0;0;0;1;0;0;0;1;3;0;0;0;0;1;0;
+Exercise 2: Reproduce experimental results from a paper - Learning Points and Routes to Recommend Trajectories;2016;CIKM;0;0;0;1;0;0;1;1;0;0;0;0;0;1;4;0;0;0;0;1;0;
