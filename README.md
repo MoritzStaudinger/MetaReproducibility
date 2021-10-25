@@ -6,11 +6,13 @@ This is a quantitative analysis on the reproducibility of IR research. For this 
 
 ## Setup
 
-All statistics and analysis have been executed under python 3.8.2, all necessary requirements are listed in the requirements.txt file.
+All statistics and analysis have been executed under python 3.8.2, all necessary requirements are listed in the requirements.txt file. The complete experiment was run in a Jupyter Notebook.
 
 ## Dataset Description
 
-The dataset (data.csv) consists of 21 papers, which are analyzed on the problems the students encountered. 1 means that the problem has been encountered and 0 means that this problem has not been encountered. Then the sum of all problems is given, as well as the PRIMAD functions used in the reproduction of the papers. If other factors than Actor, according to PRIMAD, have been tuned, the assumptions are stated in an extra column. Each column is separated with a semicolon. 
+The dataset (data.csv) consists of 21 papers, which are analyzed on the problems the students encountered. The dataset is licensed under CC-BY-SA.
+
+A 1 in the dataset means that the problem has been encountered and 0 means that this problem has not been encountered. Then the sum of all problems is given, as well as the PRIMAD functions used in the reproduction of the papers. If other factors than Actor, according to PRIMAD, have been tuned, the assumptions are stated in an extra column. Each column is separated with a semicolon. 
 
 The columns are the following:
 
